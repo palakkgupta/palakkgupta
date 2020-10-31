@@ -10,4 +10,4 @@
 
 
 ### I work on:
-<img src = https://i2.wp.com/dataaspirant.com/wp-content/uploads/2014/10/540px-matplotlib_logo-svg.png width='60'>
+<img src = https://i2.wp.com/dataaspirant.com/wp-content/uploads/2014/10/540px-matplotlib_logo-svg.png width='100'><img src = https://miro.medium.com/max/765/1*cyXCE-JcBelTyrK-58w6_Q.png>
