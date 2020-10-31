@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src = https://giphy.com/gifs/3o6Ygfw40tlnPhX87m/html5>
+<img src = https://media.giphy.com/media/3o6Ygfw40tlnPhX87m/giphy.gif>
  ### A little more about me.......
 - 🔭 I’m currently working on Projects based on Data Science.
 - 🌱 I’m currently learning Data Science and Analytics.
