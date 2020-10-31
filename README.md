@@ -1,5 +1,4 @@
 ### Hi there 👋
-[https://www.montrealassociates.com/media/montreal/client/datascience2.png]
 
 - 🔭 I’m currently working on Projects based on Data Science.
 - 🌱 I’m currently learning Data Science and Analytics.
