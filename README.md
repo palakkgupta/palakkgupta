@@ -1,5 +1,6 @@
 ### Hi there 👋
- A little more about me.......
+<img src = https://giphy.com/gifs/3o6Ygfw40tlnPhX87m/html5>
+ ### A little more about me.......
 - 🔭 I’m currently working on Projects based on Data Science.
 - 🌱 I’m currently learning Data Science and Analytics.
 - 👯 I’m looking to collaborate on Open Source Projects.
