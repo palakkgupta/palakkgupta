@@ -1,5 +1,5 @@
 ### Hi there 👋
-## A little mpre about me.......
+ A little more about me.......
 - 🔭 I’m currently working on Projects based on Data Science.
 - 🌱 I’m currently learning Data Science and Analytics.
 - 👯 I’m looking to collaborate on Open Source Projects.
@@ -10,4 +10,4 @@
 
 
 ### I work on:
-<img src = https://i2.wp.com/dataaspirant.com/wp-content/uploads/2014/10/540px-matplotlib_logo-svg.png width='10'>
+<img src = https://i2.wp.com/dataaspirant.com/wp-content/uploads/2014/10/540px-matplotlib_logo-svg.png width='60'>
