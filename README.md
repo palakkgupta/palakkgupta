@@ -10,4 +10,4 @@
 
 
 ### I work on:
-<img src= https://opensource.hk/wp-content/uploads/2017/02/python-logo-inkscape.png width='100'><img src = https://matplotlib.org/3.2.1/_images/sphx_glr_logos2_003.png width='100'>   <img src = https://miro.medium.com/max/765/1*cyXCE-JcBelTyrK-58w6_Q.png width = '100'>  <img src = https://www.freecodecamp.org/news/content/images/2020/07/pandas-logo.png width='100'>  <img src=http://amueller.github.io/img/scikit-learn-logo.png width = '100'> <img src=https://s3.amazonaws.com/looker-databasesstatic-corp/analytical/logos/azure-sql-data-warehouse.png width='100'>
+<img src= https://opensource.hk/wp-content/uploads/2017/02/python-logo-inkscape.png width='150'><img src = https://matplotlib.org/3.2.1/_images/sphx_glr_logos2_003.png width='100'>   <img src = https://miro.medium.com/max/765/1*cyXCE-JcBelTyrK-58w6_Q.png width = '100'>  <img src = https://www.freecodecamp.org/news/content/images/2020/07/pandas-logo.png width='100'>  <img src=http://amueller.github.io/img/scikit-learn-logo.png width = '100'> <img src=https://s3.amazonaws.com/looker-databasesstatic-corp/analytical/logos/azure-sql-data-warehouse.png width='100'>
